@@ -1,9 +1,3 @@
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Winter%20Has%20Come%20For%20This%20Repo&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=%E2%9D%84%EF%B8%8F%20The%20Night%20King%20Raises...%20Bugs%20From%20The%20Dead&descAlignY=62&descSize=17)](https://github.com/jonsnow273)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=63C5DA&center=true&vCenter=true&width=700&lines=%E2%9D%84%EF%B8%8F+For+the+Watch%3A+Debugging+Never+Ends;Raising+Dead+Code+From+The+Grave;Winter+Is+Coming...+So+Is+The+Next+Deploy)](https://github.com/jonsnow273)
-
----
-
 [![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pranit%20More&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Enthusiast%20%7C%20Pune%2C%20India&descAlignY=58&descSize=20)](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pranit%20More&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Enthusiast%20%7C%20Pune%2C%20India&descAlignY=58&descSize=20) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Aspiring+AI+%26+ML+Engineer+%F0%9F%A7%A0;Exploring+the+world+of+Deep+Learning;Data+Science+%7C+Neural+Networks+%7C+Computer+Vision;Working+on+ML+Projects+%F0%9F%9A%80;Learning+loud.+Growing+every+day.)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Aspiring+AI+%26+ML+Engineer+%F0%9F%A7%A0;Exploring+the+world+of+Deep+Learning;Data+Science+%7C+Neural+Networks+%7C+Computer+Vision;Working+on+ML+Projects+%F0%9F%9A%80;Learning+loud.+Growing+every+day.)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jonsnow273&label=Profile+Views&color=a855f7&style=flat-square)](https://github.com/jonsnow273) [![GitHub followers](https://img.shields.io/github/followers/jonsnow273?label=Followers&style=flat-square&color=6366f1)](https://github.com/jonsnow273?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/jonsnow273?label=Total+Stars&style=flat-square&color=f59e0b)](https://github.com/jonsnow273?tab=stars)
@@ -46,30 +40,9 @@ I'm focused on building a strong foundation in machine learning by understanding
 
 ## 🚀 Projects
 
-### 🧠 TrustRAG
-
-Portfolio-quality Retrieval-Augmented Generation system with an adaptive config selector that picks retrieval settings per question type, plus an NLI-based hallucination verifier. Full stack: ingestion, retriever, generator, config selector, verifier, FastAPI backend, React + Tailwind frontend.
-🔗 [github.com/jonsnow273/TrustRAG](https://github.com/jonsnow273/TrustRAG)
-
-### ⚽ FootballPredictionSystem
-
-Football score prediction system using Poisson regression trained on international match data. FastAPI backend with `/predict`, `/fixtures`, and `/h2h` endpoints, plus a JS frontend with skeleton loading and fade-in animations.
-🔗 [github.com/jonsnow273/FootballPredictionSystem](https://github.com/jonsnow273/FootballPredictionSystem)
-
-### 🐞 CodeReviewer
-
-Full-stack AI code reviewer powered by Groq AI (Llama 3.3 70b) — paste code, pick a language, and get bug detection, explanations, and an auto-fixed version. Built with React, Monaco Editor, FastAPI, and Python.
-🔗 [github.com/jonsnow273/CodeReviewer](https://github.com/jonsnow273/CodeReviewer)
-
-### 🎬 MovieAnalyser
-
-Movie search and analysis web app built with Python, Streamlit, and the OMDb API. *(in progress)*
-🔗 [github.com/jonsnow273/MovieAnalyser](https://github.com/jonsnow273/MovieAnalyser)
-
 ### 🎯 JS Quiz App
 
 An interactive quiz application built with vanilla JavaScript, featuring dynamic question rendering, score tracking, and a clean responsive UI. A stepping stone in my dev journey while I focus deeper on AI/ML.
-
 > More projects coming as I build through my ML journey — watch this space.
 
 ---
@@ -97,7 +70,3 @@ An interactive quiz application built with vanilla JavaScript, featuring dynamic
 *"Impossible is just a word."* — **Pranit**
 
 [![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
-
----
-
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:75AADB,100:FCBF49&height=180&section=footer&text=Siuuuu!%20Shipping%20Code%20Like%20Scoring%20Goals&fontSize=26&fontColor=fff&animation=twinkling&fontAlignY=75)](https://github.com/jonsnow273)
