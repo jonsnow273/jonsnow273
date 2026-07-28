@@ -132,7 +132,7 @@ An interactive quiz application built with vanilla JavaScript, featuring dynamic
 
 ## 💭 Philosophy
 
-<h1>"Impossible is just a word"</h1>
+<p>"Impossible is just a word"<p>
 <sub>— Pranit</sub>
 
 </div>
