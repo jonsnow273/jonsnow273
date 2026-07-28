@@ -130,6 +130,17 @@ An interactive quiz application built with vanilla JavaScript, featuring dynamic
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Impossible%20is%20just%20a%20word.&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
+## 💭 Philosophy
+
+<h1>"Impossible is just a word"</h1>
+<sub>— Pranit</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
