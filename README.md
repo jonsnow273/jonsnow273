@@ -18,27 +18,29 @@
 
 ## 👨‍💻 About Me
 
+Hi, I'm **Pranit More** — an AI & Machine Learning enthusiast based in **Pune, Maharashtra, India**.
 Hi, I'm **Pranit More** — an aspiring AI & Machine Learning engineer based in **Pune, Maharashtra, India**.
 
+I'm at the beginning of an exciting journey into artificial intelligence. My goal is to build a strong foundation, work on meaningful projects, and grow into a capable ML engineer one step at a time.
 I'm focused on building a strong foundation in machine learning by understanding concepts deeply and applying them through real-world projects. My goal is to grow step-by-step into a skilled ML engineer by consistently learning, experimenting, and improving.
 
+- 🎯 Passionate about **Machine Learning** and **Deep Learning**
+- 🧠 Focused on understanding fundamentals and building real-world models
+- 📊 Love turning raw data into actionable insights
+- 🏗️ Currently working on multiple ML projects
+- 🌱 Always learning, experimenting, and improving
 - 🎯 Currently focused on **Machine Learning fundamentals**
 - 🧠 Exploring **Deep Learning & Neural Networks**
 - 📊 Interested in turning **data into meaningful insights**
-- 🏗️ Actively working on **ML projects** — RAG systems, prediction models, and interpretability research
+- 🏗️ Actively working on **ML projects**
 - 🌱 Constantly learning and refining my skills
 - 📍 Based in **Pune, India**
 - 📬 Reach me at **pranitmore0856@gmail.com**
 
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
 #### 🐍 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,17 +49,18 @@ I'm focused on building a strong foundation in machine learning by understanding
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 #### 🤖 AI / ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 #### 🧰 Tools & Platforms
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -65,43 +68,20 @@ I'm focused on building a strong foundation in machine learning by understanding
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jonsnow273&show_icons=true&theme=radical&count_private=true&hide_border=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonsnow273&theme=radical&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jonsnow273&theme=react-dark&hide_border=true" width="98%"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-#### 🛡️ [TrustRAG](https://github.com/jonsnow273/TrustRAG)
-A portfolio-grade Retrieval-Augmented Generation system with an adaptive config selector that picks retrieval settings per question type, plus an NLI-based hallucination verifier. Full stack: ingestion → retriever → generator → verifier, served through a FastAPI backend with a React + Tailwind frontend.
-
-#### 🧠 [GrokkingRepro](https://github.com/jonsnow273/GrokkingRepro)
-A from-scratch reproduction of **grokking** — the delayed-generalization phenomenon where a small transformer trained on modular arithmetic memorizes the training set almost instantly, then suddenly jumps to full generalization thousands of steps later. Includes ablations on weight decay to isolate the effect driving it.
-
-#### ⚽ [FootballPredictionSystem](https://github.com/jonsnow273/FootballPredictionSystem)
-A football score prediction system using Poisson regression trained on international match data, with a FastAPI backend (`/predict`, `/fixtures`, `/h2h`) and a responsive JS frontend with live per-match predictions.
-
-#### 🎬 [MovieAnalyser](https://github.com/jonsnow273/MovieAnalyser)
-A movie search and analysis web app built with Python, Streamlit, and the OMDb API. *(in progress)*
-
-#### 🎯 JS Quiz App
+### 🎯 JS Quiz App
 An interactive quiz application built with vanilla JavaScript, featuring dynamic question rendering, score tracking, and a clean responsive UI. A stepping stone in my dev journey while I focus deeper on AI/ML.
 
+> More projects coming soon as I build through my ML journey — watch this space.
 > More projects coming as I build through my ML journey — watch this space.
+> check out my new projects too
 
 ---
 
+## 🎯 2026 Goals
 ## 🎯 Goals
 
 <div align="center">
+
 
 | # | Goal | Status |
 |---|------|--------|
@@ -112,8 +92,6 @@ An interactive quiz application built with vanilla JavaScript, featuring dynamic
 | 5 | 🎯 Stay consistent and disciplined | 🔄 In Progress |
 
 </div>
-
----
 
 ## 🤝 Let's Connect
 
@@ -130,16 +108,8 @@ An interactive quiz application built with vanilla JavaScript, featuring dynamic
 
 <div align="center">
 
-## 💭 Philosophy
-
-<p>"Impossible is just a word"<p>
-<sub>— Pranit</sub>
-
-</div>
-
----
-
-<div align="center">
+### 💬 Philosophy
+**"Impossible is just a word."** — Pranit
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
