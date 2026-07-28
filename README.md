@@ -4,7 +4,7 @@
 
 ---
 
-[![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 ## 👨‍💻 About Me
 
@@ -19,6 +19,8 @@ I'm focused on building a strong foundation in machine learning by understanding
 - 🌱 Constantly learning and refining my skills
 - 📍 Based in **Pune, India**
 - 📬 Reach me at **<pranitmore0856@gmail.com>**
+
+<br clear="right"/>
 
 ---
 
@@ -65,9 +67,6 @@ An interactive quiz application built with vanilla JavaScript, featuring dynamic
 
 ---
 
-
-
-[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
 ### 💬 Philosophy
 
-*"Impossible is just a word."* — **Pranit**
+[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=%22Impossible%20is%20just%20a%20word.%22&fontSize=26&fontColor=fff&animation=twinkling&fontAlignY=70&desc=%E2%80%94%20Pranit&descAlignY=88&descSize=18)](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=%22Impossible%20is%20just%20a%20word.%22&fontSize=26&fontColor=fff&animation=twinkling&fontAlignY=70&desc=%E2%80%94%20Pranit&descAlignY=88&descSize=18)
