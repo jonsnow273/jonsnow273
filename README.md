@@ -120,9 +120,6 @@ An interactive quiz application built with vanilla JavaScript, featuring dynamic
 ### 💬 Philosophy
 **"Impossible is just a word."** — Pranit More
 
-**I'm Pranit More — and I'm just getting started.** 🧠
-*"Impossible is just a word."* — **Pranit**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
