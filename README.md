@@ -67,6 +67,6 @@ An interactive quiz application built with vanilla JavaScript, featuring dynamic
 
 ---
 
-### 💬 Philosophy
+💬 Philosophy
 
 [![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=%22Impossible%20is%20just%20a%20word.%22&fontSize=26&fontColor=fff&animation=twinkling&fontAlignY=70&desc=%E2%80%94%20Pranit&descAlignY=88&descSize=18)](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=%22Impossible%20is%20just%20a%20word.%22&fontSize=26&fontColor=fff&animation=twinkling&fontAlignY=70&desc=%E2%80%94%20Pranit&descAlignY=88&descSize=18)
