@@ -18,14 +18,14 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Pranit** — an aspiring AI & Machine Learning engineer.
+Hi, I'm **Pranit**
 
 I'm focused on building a strong foundation in machine learning by understanding concepts deeply and applying them through real-world projects. My goal is to grow step-by-step into a skilled ML engineer by consistently learning, experimenting, and improving.
 
-- 🎯 Currently focused on **Machine Learning fundamentals**
+- 🎯 Currently focused on **AI AND Machine Learning fundamentals**
 - 🧠 Exploring **Deep Learning & Neural Networks**
 - 📊 Love turning **raw data into meaningful insights**
-- 🏗️ Actively working on **ML projects**
+- 🏗️ Actively working on **MY projects**
 - 🌱 Constantly learning, experimenting, and refining my skills
 
 <br clear="right"/>
